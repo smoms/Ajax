@@ -1,2 +1,2 @@
 # Ajax
-read me carefully.. ;)
+read me carefully..;)
